@@ -30,3 +30,6 @@ You will also need to be registered on alector's website.
 
 ### Running the scraping script
 Execute `python scrape_alector.py`. Give your credentials when prompted, and voilà!
+
+# Acknowledgements
+Núria Gala, Anaïs Tack, Ludivine Javourey-Drevet, Thomas François, Johannes C. Ziegler, **Alector: A Parallel Corpus of Simplified French Texts with Alignments of Misreadings by Poor and Dyslexic Readers**. Proceedings of the 12th Language Resources and Evaluation Conference. [[aclweb]](https://www.aclweb.org/anthology/2020.lrec-1.169.pdf)
