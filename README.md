@@ -14,7 +14,7 @@ You will need to have installed:
 - gecko driver
 - selenium python package
 
-You will also need to be registered ont alector's website.
+You will also need to be registered on alector's website.
 
 ### Installation of gecko driver:
 1. Download and extract the latest release (https://github.com/mozilla/geckodriver/releases). Example :
